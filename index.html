@@ -5,9 +5,7 @@ title : pixelmuerto Page
 
 Welcome!
 {% for post in site.posts limits:5 %}
-	<div class="enlaces">
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<div class="postEnlace"> 
+		<em>{{ post.date | date_to_long_string }}.</em> :  <a href="{{ post.url }}">{{ post.title }}</a>
 	</div>
-		{{ post.content }}
-	<em> Posted on {{ post.date | date_to_long_string }}.</em>
 {% endfor %}
