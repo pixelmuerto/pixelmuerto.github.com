@@ -1,6 +1,6 @@
 --- 
 layout: default
-title : Wiki 
+title : vim
 ---
 agregar opciones especificas a un archivo  
 `# vim: st=8`  
