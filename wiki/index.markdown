@@ -2,4 +2,4 @@
 layout: default
 title : Wiki 
 ---
-[[vim]]
+[vim](/vim.markdown)
