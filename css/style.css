@@ -1,4 +1,5 @@
 .fondogris {background-color:#fff;}
 .postEnlace a {text-decoration:none;color:#bbb;}
 #footer {margin:10px 4px 0px 4px;}
-#footer a {float:left;text-decoration:none;color:#bbb;}
+#footer div {float:left;}
+#footer div a {text-decoration:none;color:#bbb;}
