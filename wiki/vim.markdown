@@ -1,3 +1,7 @@
+--- 
+layout: default
+title : Wiki 
+---
 agregar opciones especificas a un archivo  
 `# vim: st=8`  
 la sintaxis del comentario depende de cada lenguaje, en C sería  
