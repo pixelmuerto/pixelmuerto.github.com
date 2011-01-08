@@ -1,2 +1,2 @@
+ _layouts/default.html          |    2 +-
  css/style.css                  |    2 +-
- wiki/index.markdown            |    5 +++++
