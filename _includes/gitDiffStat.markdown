@@ -1,10 +1,9 @@
  .gitignore                            |    1 +
- _config.yml                           |    4 +-
- _layouts/default.html                 |    3 +-
+ _layouts/default.html                 |    9 ++-
  _posts/2010-11-27-first-post.markdown |    2 +
- css/syntax.css                        |   62 +++++++++++++++++++++++++++++++++
+ css/style.css                         |    4 +-
+ css/syntax.css                        |  122 +++++++++++++++++----------------
  gitCommitStat.sh                      |    2 +
- index.html                            |    5 +++
- wiki/index.markdown                   |    4 ++
+ index.html                            |   13 +++-
  wiki/vim.markdown                     |    2 +
- 9 files changed, 82 insertions(+), 3 deletions(-)
+ 8 files changed, 88 insertions(+), 67 deletions(-)

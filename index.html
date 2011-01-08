@@ -2,9 +2,6 @@
 layout: default
 title : pixelmuerto Page
 ---
-
-Welcome!
-<br/>
 <br/>
 {% for post in site.posts limits:5 %}
 	<div class="postEnlace"> 
@@ -16,3 +13,10 @@ Welcome!
 {% highlight diff %}
 {% include gitDiffStat.markdown %}
 {% endhighlight %}
+<br />
+<!-- 
+{{ site.categories | size}}
+{% for category in site.categories %}
+	<a name="{{ category | first }}">{{ category | first }}</a>
+{% endfor %}
+-->
