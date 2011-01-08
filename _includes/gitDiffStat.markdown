@@ -1,2 +1,2 @@
- css/style.css                  |    3 ++-
- wiki/index.markdown            |    2 +-
+ css/style.css                  |    2 +-
+ wiki/index.markdown            |    5 +++++
