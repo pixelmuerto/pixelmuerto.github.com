@@ -1,6 +1,8 @@
 --- 
 layout: default
 title : vim
+categories:
+- roots
 ---
 agregar opciones especificas a un archivo  
 `# vim: st=8`  
