@@ -1,2 +1,12 @@
  _layouts/default.html          |    2 +-
  css/style.css                  |    2 +-
+ wiki/Cygwin.md                 |   29 +++++++++++++++++++++++++++++
+ wiki/Git.md                    |   34 ++++++++++++++++++++++++++++++++++
+ wiki/Mercurial.md              |   40 ++++++++++++++++++++++++++++++++++++++++
+ wiki/MySQL.md                  |    9 +++++++++
+ wiki/Subversion.md             |    7 +++++++
+ wiki/cpp.md                    |    4 ++++
+ wiki/index.markdown            |   18 +++++++++++++++++-
+ wiki/maruku.md                 |   24 ++++++++++++++++++++++++
+ wiki/python.md                 |    9 +++++++++
+ wiki/vnstat.md                 |   16 ++++++++++++++++
