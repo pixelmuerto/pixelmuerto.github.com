@@ -1,12 +1,19 @@
- _layouts/default.html          |    2 +-
  css/style.css                  |    2 +-
  wiki/Cygwin.md                 |   29 +++++++++++++++++++++++++++++
  wiki/Git.md                    |   34 ++++++++++++++++++++++++++++++++++
  wiki/Mercurial.md              |   40 ++++++++++++++++++++++++++++++++++++++++
  wiki/MySQL.md                  |    9 +++++++++
+ wiki/SGE.md                    |   10 ++++++++++
  wiki/Subversion.md             |    7 +++++++
+ wiki/bash.md                   |   14 ++++++++++++++
+ wiki/bash/contandoIp.md        |   33 +++++++++++++++++++++++++++++++++
+ wiki/bash/descomprimirZip.md   |   28 ++++++++++++++++++++++++++++
  wiki/cpp.md                    |    4 ++++
- wiki/index.markdown            |   18 +++++++++++++++++-
+ wiki/date.md                   |    8 ++++++++
+ wiki/find.md                   |   32 ++++++++++++++++++++++++++++++++
+ wiki/index.markdown            |   20 +++++++++++++++++++-
+ wiki/jekyll.md                 |    8 ++++++++
  wiki/maruku.md                 |   24 ++++++++++++++++++++++++
  wiki/python.md                 |    9 +++++++++
+ wiki/vim.markdown              |   18 ++++++++++++++++++
  wiki/vnstat.md                 |   16 ++++++++++++++++

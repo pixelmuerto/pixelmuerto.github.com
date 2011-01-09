@@ -8,7 +8,9 @@ title : Wiki
 [Cygwin](/wiki/Cygwin.html)  
 [MySQL](/wiki/MySQL.html)  
 [vnstat](/wiki/vnstat.html)  
-[maruku](/wiki/maruku.html)
+[maruku](/wiki/maruku.html)  
+[SGE](/wiki/SGE.html)  
+[bash](/wiki/bash.html)  
 {:enlaces} 
 ## Lenguajes
 [python](/wiki/python.html)  

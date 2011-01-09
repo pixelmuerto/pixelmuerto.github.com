@@ -4,6 +4,24 @@ title : vim
 categories:
 - roots
 ---
+
+## Registros 
+
+ver los registros  
+`:registers`
+
+## Copiar y pegar
+
+copiar la linea 10 y pegar después linea 5  
+`:10y | 15pu`
+
+copiar la linea 10 y pegar antes de la linea 5  
+`:10y | 15pu!`
+
+copiar el registro 0 después linea 10  
+`10pu 0`
+
+
 agregar opciones especificas a un archivo  
 `# vim: st=8`  
 la sintaxis del comentario depende de cada lenguaje, en C sería  
