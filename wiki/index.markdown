@@ -11,6 +11,7 @@ title : Wiki
 [maruku](/wiki/maruku.html)  
 [SGE](/wiki/SGE.html)  
 [bash](/wiki/bash.html)  
+[ssh](/wiki/ssh.html)  
 {:enlaces} 
 ## Lenguajes
 [python](/wiki/python.html)  
