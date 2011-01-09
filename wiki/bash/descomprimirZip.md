@@ -1,6 +1,6 @@
 ---
 layout: default
-title:DescomprirZip
+title: Descomprir varios Zip
 ---
 
 tenemos los siguientes archivos numerados :
@@ -16,7 +16,6 @@ tenemos los siguientes archivos numerados :
 	archivo09.zip
 
 el script dejara el contenido de cada zip en distintos directorios
-
 
 {% highlight bash %}
 #!/bin/bash

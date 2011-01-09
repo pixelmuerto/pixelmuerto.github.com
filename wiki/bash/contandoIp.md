@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bash
+title: Contando Ips
 ---
 
 Uno de los objetivos  de este ejemplo es aprender a manipular tuberías (pipes)
