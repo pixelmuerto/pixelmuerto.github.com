@@ -12,6 +12,8 @@ title : Wiki
 [SGE](/wiki/SGE.html)  
 [bash](/wiki/bash.html)  
 [ssh](/wiki/ssh.html)  
+[screen](/wiki/screen.html)  
+[sed](/wiki/sed.html)  
 {:enlaces} 
 ## Lenguajes
 [python](/wiki/python.html)  
