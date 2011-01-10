@@ -129,3 +129,18 @@ al primer error
 al último error  
 `:clast`
 
+### Status line 
+
+	:h statusline 
+
+Ejemplo
+
+	":set statusline=%F%m%r%h%w\ [B=%n]\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [ASCII=\%03.3b]\ [HEX=\%02.2B]\ [POS=%04l,%04v][%p%%]\ [LEN=%L]
+
+Cuando mostrar la barra de estatus 
+	
+	:set laststatus=0 " nunca mostrar barra de status
+	:set laststatus=1 " mostrar barra de status cuando haya mas de una ventana
+	:set laststatus=2 " siempre mostrar barra de status
+
+	:h status-line
