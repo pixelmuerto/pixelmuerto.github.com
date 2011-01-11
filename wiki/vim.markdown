@@ -2,6 +2,7 @@
 layout: default
 title : vim
 ---
+{:enlaces: .enlaceGris }  
 
 Permite editar archivos comprimidos con bzip2, gzip, zip.  
 
@@ -97,6 +98,20 @@ agregar opciones especificas a un archivo
 la sintaxis del comentario depende de cada lenguaje, en C sería  
 `// vim: st=8`
 
+### Buffers 
+
+mostrar lista de buffers existentes 
+
+	:buffers
+
+borrar buffer, donde `[N]` es el número del buffer
+
+	:bd[N]
+
+agregar archivo a un buffer
+
+	:badd ~/ruta/archivo
+
 ### folding 
 
 abrir el fold cuando se este con el cursor  
@@ -144,3 +159,8 @@ Cuando mostrar la barra de estatus
 	:set laststatus=2 " siempre mostrar barra de status
 
 	:h status-line
+
+
+[Vim plugins](/wiki/vim/vim_plugins.html)
+{:enlaces}
+
