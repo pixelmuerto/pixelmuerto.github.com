@@ -38,3 +38,35 @@ ignorar todos los que terminen en .py
 
 ignorar todos los que no terminen en .c o .h  
 `*[!.c|!.h]`
+
+## Branches
+
+Crear una rama nueva
+
+	$ hg branch ramaNueva
+
+mostrar las existentes
+
+	$ hg branches
+	ramaNueva                    10:d3959df85fcf
+	default                        9:7d1a900129f9 
+
+moverse a la rama default
+
+	$ hg update default 
+
+saber en que rama estamos 
+
+	$ hg branch
+	default
+
+traer los cambios desde otra rama
+
+	$ hg merge ramaNueva 
+
+## glog 
+
+Agregar al archivo `~/.hgrc`  
+
+	[extensions]
+	hgext.graphlog =

@@ -10,6 +10,10 @@ Permite editar archivos comprimidos con bzip2, gzip, zip.
 	$ vim -o archivo1.txt archivo2.txt   # División horizontal
 	$ vim -p archivo1.txt archivo2.txt   # División por tab
 
+solo lectura del archivo 
+
+	$ vim -R archivo
+
 ### Modo Comando 
 
      v             Seleccionar en modo visual
@@ -111,6 +115,10 @@ borrar buffer, donde `[N]` es el número del buffer
 agregar archivo a un buffer
 
 	:badd ~/ruta/archivo
+
+abrir un buffer en split
+
+	:[N]sp
 
 ### folding 
 

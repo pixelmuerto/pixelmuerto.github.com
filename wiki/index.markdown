@@ -7,6 +7,7 @@ title : Wiki
 [vim](/wiki/vim.html)  
 [Cygwin](/wiki/Cygwin.html)  
 [MySQL](/wiki/MySQL.html)  
+[swig](/wiki/swig.html)  
 [vnstat](/wiki/vnstat.html)  
 [maruku](/wiki/maruku.html)  
 [SGE](/wiki/SGE.html)  
@@ -14,6 +15,9 @@ title : Wiki
 [ssh](/wiki/ssh.html)  
 [screen](/wiki/screen.html)  
 [sed](/wiki/sed.html)  
+{:enlaces} 
+## OS
+[OSX](/wiki/osx.html)
 {:enlaces} 
 ## Lenguajes
 [python](/wiki/python.html)  
