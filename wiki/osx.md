@@ -9,3 +9,9 @@ pegar en la terminal
 copiar desde la terminal 
 
 	cat archivo.txt | pbcopy 
+
+## top 
+
+ordenar proceso por cpu 
+
+	top -o cpu

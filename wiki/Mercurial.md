@@ -30,6 +30,10 @@ comparar los cambios desde la revision -3
 comparar los cambios con las revisiones entre -2:-3  
 `hg diff -r -2:-3`
 
+ver un resumen de las modificaciones solo los nombres de los archivos modificados
+
+	hg diff --stat
+
 ## .hgignore 
 para ignorar archivos que no se quieran considerar en el repositorio  
 
