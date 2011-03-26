@@ -7,6 +7,7 @@ title : Wiki
 [vim](/wiki/vim.html)  
 [Cygwin](/wiki/Cygwin.html)  
 [MySQL](/wiki/MySQL.html)  
+[Apache](/wiki/apache.html)  
 [swig](/wiki/swig.html)  
 [vnstat](/wiki/vnstat.html)  
 [maruku](/wiki/maruku.html)  
