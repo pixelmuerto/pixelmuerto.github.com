@@ -17,6 +17,10 @@ title : Wiki
 [screen](/wiki/screen.html)  
 [sed](/wiki/sed.html)  
 {:enlaces} 
+## CMS
+[Wordpress](/wiki/wordpress.html)
+[Joomla](/wiki/joomla.html)
+{:enlaces} 
 ## OS
 [OSX](/wiki/osx.html)
 {:enlaces} 

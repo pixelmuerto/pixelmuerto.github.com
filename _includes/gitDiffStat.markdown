@@ -1,2 +1,4 @@
- wiki/apache.md                 |   21 +++++++++++++++++++++
- wiki/index.markdown            |    1 +
+ _layouts/default.html          |   11 ++++++
+ wiki/index.markdown            |    5 +++
+ wiki/joomla.md                 |    6 +++
+ wiki/wordpress.md              |   78 ++++++++++++++++++++++++++++++++++++++++
