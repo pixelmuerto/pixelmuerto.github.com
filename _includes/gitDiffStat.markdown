@@ -1,4 +1,3 @@
- _layouts/default.html          |   13 ++++++-
- wiki/index.markdown            |    6 +++-
- wiki/joomla.md                 |    6 +++
- wiki/wordpress.md              |   78 ++++++++++++++++++++++++++++++++++++++++
+ _layouts/default.html          |    2 +-
+ wiki/index.markdown            |    6 +++---
+ wiki/joomla.md                 |    8 ++++++++
