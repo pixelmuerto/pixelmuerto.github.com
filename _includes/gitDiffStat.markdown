@@ -1,3 +1,2 @@
- _layouts/default.html          |    2 +-
- wiki/index.markdown            |    6 +++---
+ wiki/Git.md                    |   17 ++++++++++++++++-
  wiki/joomla.md                 |    8 ++++++++

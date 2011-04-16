@@ -5,7 +5,22 @@ title : Git
 subir los cambios  
 `git push`
 
-##Branch
+## Diff
+	
+Solo las lineas de diferencia  
+
+	$ git diff -U0 
+
+Diferencias entre commits 
+
+	$ git diff HEAD^ HEAD
+	$ git diff HEAD~2 HEAD 
+
+Diferencias en resumen 
+
+	$ git diff --stat
+
+## Branch
 
 ver las branchs locales  
 
