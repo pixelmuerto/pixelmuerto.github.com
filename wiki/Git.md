@@ -2,8 +2,17 @@
 layout: default
 title : Git
 ---
+descargar cambios  
+
+	$ git pull 
+
+hacer un commit con mensaje  
+
+	$ git commit -am "este es el mensaje"
+
 subir los cambios  
-`git push`
+
+	$ git push
 
 ## Diff
 	
@@ -11,12 +20,12 @@ Solo las lineas de diferencia
 
 	$ git diff -U0 
 
-Diferencias entre commits 
+Diferencias entre commits  
 
 	$ git diff HEAD^ HEAD
 	$ git diff HEAD~2 HEAD 
 
-Diferencias en resumen 
+Diferencias en resumen  
 
 	$ git diff --stat
 
