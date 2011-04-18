@@ -168,7 +168,7 @@ Cuando mostrar la barra de estatus
 
 	:h status-line
 
-
+[Vim script](/wiki/vim/vimScript.html)
 [Vim plugins](/wiki/vim/vim_plugins.html)
 {:enlaces}
 
