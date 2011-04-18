@@ -1,2 +1,2 @@
- wiki/Git.md                    |   15 ++++++++++++---
  wiki/vim.markdown              |    2 +-
+ wiki/vim/vimScript.md          |    8 ++++++++
