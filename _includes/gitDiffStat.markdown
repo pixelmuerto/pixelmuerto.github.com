@@ -1,3 +1,6 @@
- wiki/vim.markdown              |    5 +++--
- wiki/vim/vimScript.md          |    8 ++++++++
+ wiki/django.md                 |    4 ++++
+ wiki/index.markdown            |    7 ++++++-
+ wiki/rails.md                  |    4 ++++
+ wiki/ruby.md                   |    4 ++++
+ wiki/vim.markdown              |    3 ++-
  wiki/vim/vimStrings.md         |    8 ++++++++

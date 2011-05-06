@@ -21,12 +21,17 @@ title : Wiki
 [Wordpress](/wiki/wordpress.html)  
 [Joomla](/wiki/joomla.html)  
 {:enlaces} 
+## Frameworks
+[Rails](/wiki/rails.html)  
+[Django](/wiki/django.html)  
+{:enlaces}
 ## OS
 [OSX](/wiki/osx.html)  
 {:enlaces} 
 ## Lenguajes
-[python](/wiki/python.html)  
 [cpp](/wiki/cpp.html)  
+[python](/wiki/python.html)  
+[ruby](/wiki/ruby.html)  
 {:enlaces} 
 ## Control de versiones
 [Mercurial](/wiki/Mercurial.html)  
