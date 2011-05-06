@@ -20,5 +20,4 @@ rails
 ## Docs
 
 * [getting started](http://guides.rubyonrails.org/getting_started.html)  
-
-
+{:enlaces}
