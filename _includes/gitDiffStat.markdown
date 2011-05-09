@@ -1,4 +1,4 @@
- _layouts/default.html                     |    1 +
+ _layouts/default.html                     |   21 ++-
  css/ie.css                                |   36 ++++
  css/plugins/buttons/icons/cross.png       |  Bin 0 -> 655 bytes
  css/plugins/buttons/icons/key.png         |  Bin 0 -> 455 bytes
@@ -28,6 +28,5 @@
  css/src/print.css                         |   92 ++++++++++
  css/src/reset.css                         |   65 +++++++
  css/src/typography.css                    |  123 +++++++++++++
- wiki/debian.md                            |   11 ++
  wiki/index.markdown                       |    1 +
- wiki/rails.md                             |    6 +
+ wiki/jekyll.md                            |    4 +-

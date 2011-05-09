@@ -16,6 +16,7 @@ title : Wiki
 [ssh](/wiki/ssh.html)  
 [screen](/wiki/screen.html)  
 [sed](/wiki/sed.html)  
+[jekyll](/wiki/jekyll.html)  
 {:enlaces} 
 ## CMS
 [Wordpress](/wiki/wordpress.html)  
