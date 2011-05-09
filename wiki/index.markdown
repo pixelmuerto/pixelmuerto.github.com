@@ -27,6 +27,7 @@ title : Wiki
 {:enlaces}
 ## OS
 [OSX](/wiki/osx.html)  
+[Debian](/wiki/debian.html)  
 {:enlaces} 
 ## Lenguajes
 [cpp](/wiki/cpp.html)  

@@ -16,6 +16,12 @@ rails
 
 	$ sudo gem install rails
 
+sqlite3
+
+	$sudo aptitude install libsqlite3-dev libsqlite3-dev libsqlite3-ruby
+	$sudo gem install sqlite3 
+
+de no reconocer el comando `rails`, agregar la ubicación al PATH, debería ser algo como `/var/lib/gems/1.8/bin`.  
 
 ## Docs
 
