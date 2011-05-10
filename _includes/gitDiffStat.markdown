@@ -1,3 +1,3 @@
- _layouts/default.html          |   20 +++++++++++---------
- wiki/index.markdown            |    1 +
- wiki/jekyll.md                 |    9 +++++++--
+ wiki/index.markdown            |    5 ++++-
+ wiki/jekyll.md                 |    6 +++++-
+ wiki/mongodb.md                |    4 ++++

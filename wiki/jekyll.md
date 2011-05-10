@@ -10,4 +10,5 @@ lanzar jekyll como servicio y auto actualizar cuando de modifique algún archivo
 para verlo en `localhost:4000`  
 
 ### Doc
-* [github: jekyll](https://github.com/mojombo/jekyll)  
+[github: jekyll](https://github.com/mojombo/jekyll)  
+{:enlaces} 

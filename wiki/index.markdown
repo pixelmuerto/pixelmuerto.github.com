@@ -6,7 +6,6 @@ title : Wiki
 
 [vim](/wiki/vim.html)  
 [Cygwin](/wiki/Cygwin.html)  
-[MySQL](/wiki/MySQL.html)  
 [Apache](/wiki/apache.html)  
 [swig](/wiki/swig.html)  
 [vnstat](/wiki/vnstat.html)  
@@ -17,6 +16,10 @@ title : Wiki
 [screen](/wiki/screen.html)  
 [sed](/wiki/sed.html)  
 [jekyll](/wiki/jekyll.html)  
+{:enlaces} 
+## DB
+[MySQL](/wiki/MySQL.html)  
+[MongoDB](/wiki/mongodb.html)  
 {:enlaces} 
 ## CMS
 [Wordpress](/wiki/wordpress.html)  
