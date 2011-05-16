@@ -67,3 +67,9 @@ ahora está entre las branchs
 log más gráfico 
 
 	git log --pretty=oneline --graph
+
+## reset
+volver al estado del commit y borrar archivos recien creados
+	
+	$ git reset --hard
+	$ git clean -f -d
