@@ -62,6 +62,10 @@ ahora está entre las branchs
 
 [Fuente stackOverflow](http://stackoverflow.com/questions/67699/how-do-i-clone-all-remote-branches-with-git)
 
+borrar una rama
+
+	$ git branch -D nombreRama
+
 ## graph 
 
 log más gráfico 

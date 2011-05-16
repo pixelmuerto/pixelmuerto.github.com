@@ -23,7 +23,13 @@ sqlite3
 
 de no reconocer el comando `rails`, agregar la ubicación al PATH, debería ser algo como `/var/lib/gems/1.8/bin`.  
 
-## Docs
+##Gems 
+
+[MongoMapper](/wiki/rails/mongomapper.md)  
+{:enlaces}
+
+##Docs
 
 * [getting started](http://guides.rubyonrails.org/getting_started.html)  
 {:enlaces}
+
