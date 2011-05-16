@@ -1,3 +1,2 @@
- wiki/index.markdown            |    5 ++++-
- wiki/jekyll.md                 |    6 +++++-
- wiki/mongodb.md                |    4 ++++
+ _posts/2011-05-15-mongolab-desde-rails3.markdown |    2 ++
+ gitCommitStat.sh                                 |    3 ---

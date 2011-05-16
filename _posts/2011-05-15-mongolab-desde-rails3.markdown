@@ -3,6 +3,8 @@ layout: default
 title : Tocando Mongolab desde rails3
 categories:
 - mongodb
+- rails
+- mongolab
 ---
 {:enlaces: .enlaceGris } 
 
