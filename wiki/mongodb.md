@@ -20,7 +20,11 @@ Borrar una collection
 
 Contar todos los registros que tengan `nombre:"test"` y fecha mayor que el `2011-05-10`
 
-	> db.stations.count({nombre:"test",fecha:{$gt:"2011-05-10"}})
+	> db.collTest.count({nombre:"test",fecha:{$gt:"2011-05-10"}})
+
+La última fecha 
+
+	> db.collTest.find({},{fecha:1}).sort({fecha:-1}).limit(1)
 
 ###mongoimport
 Generar un csv desde sql 
