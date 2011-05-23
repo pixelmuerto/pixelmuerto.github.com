@@ -19,3 +19,11 @@ y reiniciar el apache
 	$ /etc/init.d/apache2 restart
 
 ahora se debería poder activar los pretty links 
+
+en `/etc/apache2/sites-available` habilitar un sitio
+
+	$  a2ensite sitio.com
+
+desabilidar un sitio 
+
+	$ a2dissite sitio.com

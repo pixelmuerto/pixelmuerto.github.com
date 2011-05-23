@@ -38,3 +38,7 @@ importar el csv a mongodb, en -f se especifica el nombre de cada campo a importa
 	./mongoimport --host host --port port -u user -p password -d database -c collection -type csv -f campo0,campo1,campo2 --drop csvFuente.csv 
 
 Cuando se importa se sobre escribe la collection 
+
+Reparar db 
+
+	db.repairDatabase()

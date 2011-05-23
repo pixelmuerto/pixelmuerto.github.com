@@ -26,6 +26,7 @@ de no reconocer el comando `rails`, agregar la ubicación al PATH, debería ser 
 ##Gems 
 
 [MongoMapper](/wiki/rails/mongomapper.html)  
+[Passenger](/wiki/rails/passenger.html)
 {:enlaces}
 
 ##Docs
