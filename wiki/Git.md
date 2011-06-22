@@ -77,3 +77,13 @@ volver al estado del commit y borrar archivos recien creados
 	
 	$ git reset --hard
 	$ git clean -f -d
+
+## Merge con otros repos/forks
+
+	$ git co master
+	$ git remote add userRepo git://github.com/userRepo/otroRepo.git
+	$ git fetch userRepo 
+	$ git merge userRepo/master
+	$ git push 
+
+[github pull request](http://help.github.com/send-pull-requests/)  
