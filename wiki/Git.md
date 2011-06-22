@@ -2,6 +2,7 @@
 layout: default
 title : Git
 ---
+{:enlaces: .enlaceGris }  
 descargar cambios  
 
 	$ git pull 
@@ -61,6 +62,7 @@ ahora está entre las branchs
 
 
 [Fuente stackOverflow](http://stackoverflow.com/questions/67699/how-do-i-clone-all-remote-branches-with-git)
+{:enlaces} 
 
 borrar una rama
 
@@ -87,3 +89,4 @@ volver al estado del commit y borrar archivos recien creados
 	$ git push 
 
 [github pull request](http://help.github.com/send-pull-requests/)  
+{:enlaces} 
